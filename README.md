@@ -1,4 +1,4 @@
-# composite_face_effect_studies
+# Composite Face Effect Studies
 A repository for studies on the composite face effect in infants, kids and adults!
 
 Here's a breakdown of the folders:
@@ -10,3 +10,5 @@ Stimuli:
    
 Codes
 - The folder contains some codes for the projects
+
+//The projects are still in data collection phase and will be updated as data collection finishes (10/29/2025.)
