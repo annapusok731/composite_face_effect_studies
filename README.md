@@ -10,4 +10,4 @@ Stimuli:
 Codes
 - The folder contains some codes for the projects
 
-//The projects are still in data collection phase and will be updated as data collection finishes (10/29/2025.)
+//The projects are still in data collection phase and will be updated as data collection finishes (01/14/2025)
