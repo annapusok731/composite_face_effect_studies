@@ -1,5 +1,5 @@
 # Composite Face Effect Studies
-A repository for studies on the composite face effect in infants, kids and adults!
+A repository for studies on the composite face effect in kids and adults with ASD!
 
 Here's a breakdown of the folders:
 
